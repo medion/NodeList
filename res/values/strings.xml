@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A_001</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textfield_label">Введите id пользователя</string>
+    <string name="find_by_id_label">Искать по id</string>
+    <string name="checkbox_label">Опубликованные</string>
+	<string name="button_label">Показать</string>
+    
+</resources>
